@@ -20,6 +20,7 @@
     <EmbeddedResource Include="Resources\skeleton-across-right_spritesheet.png" />
     <EmbeddedResource Include="Resources\skeleton-incoming-left_spritesheet.png" />
     <EmbeddedResource Include="Resources\skeleton-incoming-right_spritesheet.png" />
+    <EmbeddedResource Include="Resources\bttb.ogg" />
   </ItemGroup>
   
   <ItemGroup>
